@@ -1,0 +1,19 @@
+body
+{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url('file:///C:/wamp64/www/oasis/To%20DO%20LIst%20web%20app/To%20Do.jpg');
+    background-size: cover;
+    background-position: 50% 50%;
+}
+h1 
+{
+    font-size: 2.5rem;
+    font-weight: bold;
+    background-image: linear-gradient(to right, rgb(27, 216, 58), black );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 2rem;
+    text-align: center;
+}
